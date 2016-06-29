@@ -1,0 +1,6 @@
+spring:
+    application:
+      command:
+        databaseName: products
+        eventsCollectionName: events
+        snapshotCollectionName: snapshots
